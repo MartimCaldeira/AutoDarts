@@ -1,0 +1,7 @@
+{
+  "name": "Copy of DartPro V13 Web",
+  "description": "A high-fidelity React web version of the DartPro scoring system, featuring 501/301 logic, interactive visualization, and player statistics.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
